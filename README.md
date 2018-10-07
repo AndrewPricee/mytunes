@@ -13,3 +13,10 @@ API Docs: https://affiliate.itunes.apple.com/resources/documentation/itunes-stor
 Travery Media Template: https://www.youtube.com/watch?v=GJXXf3_dcng
                         https://github.com/bradtraversy/mytunes_landing
                         
+                        
+All resources used are in the description of the video on youtube referenced above.
+
+There was also a codePen used by a user named Ash Neilson (https://codepen.io/neilso/)
+
+myTunes is a straight ripoff of Apple iTunes and it is very evident when looking at both pages.
+https://www.apple.com/za/itunes/
