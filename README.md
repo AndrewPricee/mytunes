@@ -1,4 +1,8 @@
 # mytunes
-A small Angular project using iTunes API
+A small Angular project using iTunes API.
+
 Inspiration and design taken from TraveryMedia (https://www.traversymedia.com/)
-as well as a classmate Fraser Carpenter
+as well as a classmate Fraser Carpenter.
+
+Search results were limited to 3 due to it looking neat and itunes has a restriction on how many searches you can do
+every minute. 3 results allows you to do multiple searches without any problems.
