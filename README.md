@@ -1,27 +1,17 @@
-# Version1
+#mytunes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
+A small Angular project using iTunes API.
 
-## Development server
+Inspiration and design taken from TraveryMedia (https://www.traversymedia.com/) as well as a classmate Fraser Carpenter.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Search results were limited to 3 due to it looking neat and itunes has a restriction on how many searches you can do every minute. 3 results allows you to do multiple searches without any problems.
 
-## Code scaffolding
+API Docs: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Travery Media Template: https://www.youtube.com/watch?v=GJXXf3_dcng https://github.com/bradtraversy/mytunes_landing
 
-## Build
+All resources used are in the description of the video on youtube referenced above.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+There was also a codePen used by a user named Ash Neilson (https://codepen.io/neilso/)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+myTunes is a straight ripoff of Apple iTunes and it is very evident when looking at both pages. https://www.apple.com/za/itunes/
