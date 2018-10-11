@@ -22,7 +22,7 @@ export class GlimpseComponent{
       ngOnInit(){
         this.searchControl.valueChanges
         .pipe( filter(text => text.length >= 6),
-        debounceTime(1), distinctUntilChanged())
+        debounceTime(1000), distinctUntilChanged())
         .subscribe(value =>{
           this.isLoading = true;
           this._glimpseService.getGlimpseData(value)
